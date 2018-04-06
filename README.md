@@ -8,4 +8,4 @@
 
 - [Auto hidding Navbar on scroll down](https://codepen.io/Mhmdhasan/pen/mAdaQE)
 
-### So, I made a react version. It might helpful for you and me! Thanks!
+### So, I made a react version. It might help you and me! Thanks!
